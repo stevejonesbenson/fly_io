@@ -5,7 +5,7 @@ defmodule Fly.MixProject do
 
   def project do
     [
-      app: :"🪰",
+      app: :fly_io,
       version: "0.1.0",
       elixir: "~> 1.18",
       description: "Tasks and functions for working with fly.io",
@@ -25,7 +25,7 @@ defmodule Fly.MixProject do
 
   def package do
     [
-      name: "🪰",
+      name: "fly_io",
       links: %{
         "GitHub" => @source_url
       },

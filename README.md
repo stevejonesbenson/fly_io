@@ -10,7 +10,7 @@ by adding `fly` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:"🪰", "~> 0.1.0"}
+    {:"fly_io", "~> 0.1.0"}
   ]
 end
 ```
