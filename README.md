@@ -18,10 +18,10 @@
 
 <p align="center" width="100%">
   <a href="https://hex.pm/packages/fly_io">
-    <img alt="HexPM"  src="https://img.shields.io/badge/hex.pm-0.1.0-blue.svg" >
+    <img alt="HexPM"  src="https://img.shields.io/badge/hex.pm-0.2.0--dev-blue.svg" >
   </a>
-  <a href="https://hexdocs.pm/fly_io/0.1.0">
-    <img alt="HexDocs"  src="https://img.shields.io/badge/hexdocs-0.1.0-green.svg" >
+  <a href="https://hexdocs.pm/fly_io/0.2.0-dev">
+    <img alt="HexDocs"  src="https://img.shields.io/badge/hexdocs-0.2.0--dev-green.svg" >
   </a>
   <a href="https://github.com/stevejonesbenson/fly_io">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" >
@@ -44,6 +44,6 @@
 
 Add the package to your deps.
 
-    {fly_io, "~> 0.1.0"}
+    {fly_io, "~> 0.2.0-dev"}
 
 <!-- INSTALL -->

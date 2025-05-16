@@ -5,7 +5,7 @@ defmodule Fly.MixProject do
     [
       app: :fly_io,
       type: :library,
-      version: "0.1.0",
+      version: "0.2.0",
       elixir: "~> 1.18",
       description: "Tasks and functions for lazy boys working with fly.io",
       scm: {:github, "stevejonesbenson", "fly_io"},
