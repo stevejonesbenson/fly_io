@@ -35,6 +35,6 @@ jobs:
       shell: sh
       env:
         HEX_API_KEY: ${{ secrets.HEX_API_KEY }}
-      run:
+      run: |
         mix apm.toggle
         mix hex.publish --yes
